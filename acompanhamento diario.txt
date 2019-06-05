@@ -1,0 +1,14 @@
+disciplina:
+
+adicionar - ok
+listar - ok
+alterar disciplina- ok
+remover - ok
+
+
+aluno:
+
+adicionar - ok
+listar (perfil) - 
+atualizar aluno -
+remover aluno - 
